@@ -1,2 +1,2 @@
 # sc-clean
-Windows application from 2001 that cleans IE caches and temporary files
+Windows application that cleans IE caches and temporary files. Developed in 2001.
